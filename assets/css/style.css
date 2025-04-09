@@ -7166,7 +7166,7 @@ table p {
 }
 
 .product-quick-view-content .content .quick-view-select-item .form-select {
-    background: rgba(0, 0, 0, 0) url("../img/icons/qcv-arrow-down.webp") no-repeat scroll right 20px center;
+
     border: 1px solid #dddddd;
     box-shadow: none;
     color: #666666;
